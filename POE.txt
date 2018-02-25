@@ -1,0 +1,10 @@
+Document Details 
+2576f23e1f4df83b317d3ca890cf5fae77da44ebd86c764ea56b64f7e5873a75
+Document Hash
+2576f23e1f4df83b​317d3ca890cf5fae​77da44ebd86c764e​a56b64f7e5873a75
+Server Timestamp
+2018-02-25 19:22:24 UTC
+Blockchain Broadcast
+Awaiting proof payment
+Blockchain Confirmation
+Awaiting proof payment

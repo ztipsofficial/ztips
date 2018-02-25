@@ -1,3 +1,6 @@
+POE done on BCH blockchain
+==========================
+
 Document Details 
 2576f23e1f4df83b317d3ca890cf5fae77da44ebd86c764ea56b64f7e5873a75
 Document Hash

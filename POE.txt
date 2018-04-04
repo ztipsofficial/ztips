@@ -1,13 +1,17 @@
 POE done on BCH blockchain
 ==========================
 
-Document Details 
-2576f23e1f4df83b317d3ca890cf5fae77da44ebd86c764ea56b64f7e5873a75
+Document Details  
+8ebbe035f241f4a7de10454e3e009f8ce3525db7ebdc56fc75ee0bfd1b4e120b
 Document Hash
-2576f23e1f4df83b​317d3ca890cf5fae​77da44ebd86c764e​a56b64f7e5873a75
+8ebbe035f241f4a7​de10454e3e009f8c​e3525db7ebdc56fc​75ee0bfd1b4e120b
 Server Timestamp
-2018-02-25 19:22:24 UTC
+2018-04-04 09:10:38 UTC
 Blockchain Broadcast
-Awaiting proof payment
+2018-04-04 09:42:44 UTC
 Blockchain Confirmation
-Awaiting proof payment
+2018-04-04 09:48:16 UTC
+
+Document Proof Confirmed
+The document's proof hash has been included in the blockchain in the transaction with txid:
+3ed5b62eab4a5d01​5fbc05f9dc14dde3​23792f2a2f993b7e​4ff93a7c8855cb4e
